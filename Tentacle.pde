@@ -1,6 +1,5 @@
 /**
- *Clase que genera el movimiento de las serpientes
- *para cada Gorgona
+ *Clase que genera el movimiento de las serpientes para cada Gorgona
  */
 class Tentacle {
   float[] a = new float[3];
